@@ -23,6 +23,9 @@
 ;;(add-to-list 'load-path "~/.emacs.d/chuck-mode")
 ;;(require 'chuck-mode)
 
+(add-to-list 'load-path "~/.emacs.d/nextflow-mode")
+(require 'nextflow-mode)
+
 (let ((default-directory "/usr/local/share/emacs/site-lisp/"))
     (normal-top-level-add-subdirs-to-load-path))
 
@@ -34,7 +37,7 @@
  '(column-number-mode t)
  '(indent-tabs-mode nil)
  '(package-selected-packages
-   '(tangotango-theme blacken scala-mode markdown-mode homebrew-mode dockerfile-mode)))
+   '(groovy-mode tangotango-theme blacken scala-mode markdown-mode homebrew-mode dockerfile-mode)))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
