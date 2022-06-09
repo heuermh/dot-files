@@ -3,7 +3,7 @@
              '("melpa" . "https://melpa.org/packages/"))
 (package-initialize)
 
-;;(load-theme 'tangotango t)
+(load-theme 'tangotango t)
 
 (defun apache-jakarta-mode ()
  "The Java mode specialization for Apache Jakarta projects."
@@ -34,7 +34,7 @@
  '(column-number-mode t)
  '(indent-tabs-mode nil)
  '(package-selected-packages
-   '(scala-mode markdown-mode homebrew-mode dockerfile-mode)))
+   '(tangotango-theme blacken scala-mode markdown-mode homebrew-mode dockerfile-mode)))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
