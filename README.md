@@ -11,3 +11,4 @@ Install packages
 * nextflow-mode, https://github.com/Emiller88/nextflow-mode
 * scala-mode
 * tangotango-theme
+* yaml-mode

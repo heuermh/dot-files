@@ -37,7 +37,7 @@
  '(column-number-mode t)
  '(indent-tabs-mode nil)
  '(package-selected-packages
-   '(groovy-mode tangotango-theme blacken scala-mode markdown-mode homebrew-mode dockerfile-mode)))
+   '(yaml-mode groovy-mode tangotango-theme blacken scala-mode markdown-mode homebrew-mode dockerfile-mode)))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
