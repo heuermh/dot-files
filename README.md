@@ -1,6 +1,6 @@
-# dot-files
+# dotfiles
 
-## emacs
+### emacs
 
 Install packages
 * blacken
