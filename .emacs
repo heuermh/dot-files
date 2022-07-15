@@ -26,8 +26,8 @@
 (add-to-list 'load-path "~/.emacs.d/nextflow-mode")
 (require 'nextflow-mode)
 
-(let ((default-directory "/usr/local/share/emacs/site-lisp/"))
-    (normal-top-level-add-subdirs-to-load-path))
+;;(let ((default-directory "/usr/local/share/emacs/site-lisp/"))
+;;    (normal-top-level-add-subdirs-to-load-path))
 
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
@@ -37,7 +37,7 @@
  '(column-number-mode t)
  '(indent-tabs-mode nil)
  '(package-selected-packages
-   '(yaml-mode groovy-mode tangotango-theme blacken scala-mode markdown-mode homebrew-mode dockerfile-mode)))
+   '(yaml-mode groovy-mode tangotango-theme blacken scala-mode markdown-mode homebrew-mode dockerfile-mode quarto-mode)))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
