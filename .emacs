@@ -20,8 +20,8 @@
    (add-hook 'jde-mode-hook 'apache-jakarta-mode)
   (add-hook 'java-mode-hook 'apache-jakarta-mode))
 
-;;(add-to-list 'load-path "~/.emacs.d/chuck-mode")
-;;(require 'chuck-mode)
+(add-to-list 'load-path "~/.emacs.d/chuck-mode")
+(require 'chuck-mode)
 
 (add-to-list 'load-path "~/.emacs.d/nextflow-mode")
 (require 'nextflow-mode)
