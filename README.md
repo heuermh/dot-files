@@ -1,6 +1,10 @@
 # dotfiles
 
-### emacs
+### .bash_profile
+
+Provides bash prompt with git branch and dirty flag.
+
+### .emacs
 
 Install packages
 * blacken
