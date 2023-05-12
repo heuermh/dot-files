@@ -40,7 +40,7 @@
  '(column-number-mode t)
  '(indent-tabs-mode nil)
  '(package-selected-packages
-   '(yaml-mode groovy-mode tangotango-theme blacken scala-mode markdown-mode homebrew-mode dockerfile-mode quarto-mode ess)))
+   '(arduino-mode yaml-mode groovy-mode tangotango-theme blacken scala-mode markdown-mode homebrew-mode dockerfile-mode quarto-mode ess)))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
