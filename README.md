@@ -15,7 +15,7 @@ Install packages
 * groovy-mode
 * homebrew-mode
 * markdown-mode
-* nextflow-mode, https://github.com/Emiller88/nextflow-mode
+* nextflow-mode, https://github.com/heuermh/nextflow-mode
 * quarto-mode
 * scala-mode
 * tangotango-theme
