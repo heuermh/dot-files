@@ -8,7 +8,6 @@ Provides bash prompt with git branch and dirty flag.
 
 Install packages
 * arduino-mode
-* blacken
 * chuck-mode, https://github.com/heuermh/chuck-mode
 * dockerfile-mode
 * ess
